@@ -1,3 +1,1 @@
-This project is about learning to make changes to repositories and push them to github via a virtual machine in the terminal.
-
-So far I have installed a vm and git, made a repository on my github, and set up a local repository to make and push changes to the github repository. I have also created branches and pushed from different branches.
+This project is about learning to make changes to repositories and push them to github via a virtual machine in the terminal. In it I connected my work to a remote repository on github, created files and directories and uploaded them to git, made and merged branches, and created a .gitignore file.
